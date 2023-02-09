@@ -6,4 +6,4 @@ Codi font del projecte final "Metamorphose" de l'assignatura "Realitat Virtual" 
 
 ## Crèdits
 
-[Roger Olivella](http://bifur.cat)
+[Roger Olivella](https://rolivella.github.io/)
